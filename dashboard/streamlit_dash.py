@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
 data_dframe_merge = pd.read_csv('https://raw.githubusercontent.com/kuninn/Submission-Bike-Sharing/main/dashboard/main_data.csv')
 
 st.title("BIKE RENTAL DASHBOARD 🚲")
