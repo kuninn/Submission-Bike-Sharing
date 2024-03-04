@@ -1,10 +1,10 @@
 # Data Analytic Project
 Bike Sharing Data Analytic
 
-####>require: [Anaconda Python](https://www.anaconda.com/download/)
+#### >require: [Anaconda Python](https://www.anaconda.com/download/)
 
-##Get Started
-###How to open file .ipynb
+## Get Started
+### How to open file .ipynb
 1. Open terminal on your PC
 2. Use `git clone` to clone repo from this project to your PC:
    `https://github.com/kuninn/Submission-Bike-Sharing.git`
@@ -14,7 +14,7 @@ Bike Sharing Data Analytic
 6. Open folder and navigate to extracted file
 7. Open `notebook.ipynb`
 
-###How to run streamlit_dash.py
+### How to run streamlit_dash.py
 1. On `VSCode`, open terminal by `Terminal>New Terminal`
 2. Create new or running already exist environment by `conda`
 3. To create new environment `conda create <your_env>`
