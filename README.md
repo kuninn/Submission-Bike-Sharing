@@ -1,7 +1,7 @@
 # Data Analytic Project
 Bike Sharing Data Analytic
 
-#### >require: [Anaconda Python](https://www.anaconda.com/download/)
+> require: [Anaconda Python](https://www.anaconda.com/download/)
 
 ## Get Started
 ### How to open file .ipynb
