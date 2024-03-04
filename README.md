@@ -1,2 +1,2 @@
-# Submission-Bike-Sharing
+# Data Analytic Project
 Bike Sharing Data Analytic
